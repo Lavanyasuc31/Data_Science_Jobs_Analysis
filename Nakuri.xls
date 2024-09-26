@@ -1,0 +1,406 @@
+,title,company,ratings,reviews,years,location,days,salary,skills
+0,CMG - Research & Insights - Data Science Specialist - Senior Analyst,"[('Deloitte', '')]",3.9,15912,3-8 ,Hyderabad,3,,Data Science
+1,Senior AI/Data Science Engineer - Data Scientist,"[('Medtronic', '')]",4.1,483,3-7 ,Hyderabad,3,,advanced analytics
+2,Data Science Actuarial Analyst,"[('', 'Actuators Educational Institute')]",,,2-5 ,Bengaluru,2,,Computer science
+3,Data Science Engineer,"[('EY', '')]",3.6,9271,6-11,"Hybrid - Hyderabad, Bengaluru, Delhi / NCR",6,,Data Science
+4,Engineer III - Data Science,"[('Verizon', '')]",4.1,1283,4-9 ,"Hyderabad, Chennai, Bengaluru",4,,Data Science
+5,Senior Engineer Consultant - Data Science,"[('Verizon', '')]",4.1,1283,4-8 ,"Hybrid - Hyderabad, Chennai",4,,Data Science
+6,Senior Manager - Data Science,"[('Verizon', '')]",4.1,1283,6-11,"Hybrid - Hyderabad, Chennai",6,,Data Science
+7,Data Science Trainee,"[('Ray Business Technologies', '')]",3.2,73,0-1 ,Hyderabad,0,,Data Science
+8,Lead Data Science Consultant For HL Marketing Analytics,"[('Wells Fargo', '')]",4.0,5646,8-9 ,Hyderabad,8,,PPC
+9,Engineer III Consultant-Data Science,"[('Verizon', '')]",4.1,1283,4-8 ,"Hyderabad, Chennai",4,,Data Science
+10,"Assoc Manager, Data Science Analytics","[('', 'eBay')]",,,3-6 ,Bengaluru,3,,excel
+11,Data Science Analyst (Senior),"[('Infogain', '')]",3.6,983,6-8 ,Gurugram,6,,Hospitality
+12,Data Science Senior Analyst,"[('Pepsico', '')]",4.1,2304,8-10,Hyderabad,8,,Data Science
+13,Senior Business Analyst Data Science,"[('Trinity Life Sciences', '')]",3.0,37,1-4 ,Bengaluru,1,,r
+14,Data Science & Analytics Engagement Lead,"[('CANPACK', '')]",4.3,235,0-15,Pune,1,,data bricks
+15,"Consultant, Data Science & Analytics","[('Transunion', '')]",3.9,340,4-8 ,"Pune, Chennai",4,,Logistic regression
+16,Analytics Data science and IOT Lead,"[('Hexaware Technologies', '')]",3.6,5151,5-9 ,"Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",5,,Computer vision
+17,Analytics Data science and IOT Lead,"[('Hexaware Technologies', '')]",3.6,5151,5-9 ,"Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",5,,deep learning
+18,Data Science Analyst (Standard),"[('Infogain', '')]",3.6,983,4-6 ,Gurugram,4,,tableau
+19,Data Science Developer,"[('Crosslynx Technologies Services', '')]",4.0,20,0-1 ,Noida,0,4.5-5.5,Data Science
+20,Data Science Consultant,"[('', 'Procogia')]",,,2-4 ,"Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",2,,data bricks
+21,Senior Analyst-Data Science,"[('AMERICAN EXPRESS', '')]",4.2,2826,2-5 ,Gurugram,2,,Career development
+22,Data Science Specialist,"[('Deloitte', '')]",3.9,15912,6-10,Bengaluru,6,,Data Science
+23,Data Science and Engineering - Trainee,"[('Hexacorp Technical Services', '')]",4.3,31,0-1 ,Chennai,0,,Data analysis
+24,Business Analyst Data Science,"[('Trinity Life Sciences', '')]",3.0,37,1-4 ,Bengaluru,1,,r
+25,Unit Manager - Payments - Data Science/Senior Unit Manager,"[('Bajaj Finserv Ltd.', '')]",3.5,153,2-4 ,Pune,2,,Data analysis
+26,Sr Analyst- Data Science and Analytics-MRM,"[('Transunion', '')]",3.9,340,4-9 ,"Pune, Chennai",4,,Operations research
+27,Data Science Trainer,"[('Digipodium', '')]",4.0,10,0-4 ,Lucknow,0,,Artificial Intelligence
+28,Freelancing Data Science and Data Analytics Trainer Opportunity,"[('Imarticus', '')]",4.2,277,4-9 ,Hyderabad,4,,Trainer
+29,Manager Data Science,"[('Blend', '')]",3.7,10,4-7 ,Hyderabad,4,,python
+30,Data Science Manager,"[('Springml India', '')]",4.0,45,7-12,Hybrid - Hyderabad,7,,Natural Language Processing
+31,AM - Data Science & Analytics,"[('Starbucks', '')]",4.3,626,2-7 ,"Mumbai, Navi Mumbai, Mumbai (All Areas)",2,,Data Science
+32,Engineer III Cslt - Data Science,"[('Verizon', '')]",4.1,1283,4-6 ,Chennai,4,,Data Science
+33,Analyst-Data Science,"[('AMERICAN EXPRESS', '')]",4.2,2826,1-4 ,Gurugram,1,,Career development
+34,Data & Analytics Specialist(Data Science),"[('Roche Information Solutions', '')]",4.1,11,9-12,Hybrid - Pune,9,,Azure
+35,Manager - Data Science,"[('Abbott', '')]",4.2,2832,2-4 ,Mumbai,2,,Supply chain
+36,Senior Lead Data Science Consultant,"[('Wells Fargo', '')]",4.0,5646,6-10,Bengaluru,6,,remediation
+37,Data Science Analyst,"[('Infogain', '')]",3.6,983,2-3 ,Gurugram,2,,data science
+38,Data Science Analytics Sr Analyst,"[('Accenture', '')]",4.0,49765,5-8 ,Bengaluru,5,,python
+39,Senior Digital Innovation Engineer Data Science,"[('Buckman', '')]",3.7,17,3-7 ,Chennai,3,,r
+40,Senior Analyst-Data Science,"[('', 'Resy')]",,,2-5 ,Gurugram,2,,Career development
+41,Staff Engineer - Data Science,"[('Altimetrik', '')]",3.8,902,6-9 ,Hyderabad,6,,data science
+42,Analyst - Data Science,"[('Secure Meters', '')]",4.1,770,3-6 ,Udaipur,3,,Data analysis
+43,Developer: Generative AI and Data Science,"[('Nimbusnext', '')]",3.0,11,4-9 ,Pune,4,,Product management
+44,Senior Data Science Consultant For HL Marketing Analytics,"[('Wells Fargo', '')]",4.0,5646,4-8 ,Hyderabad,4,,digital marketing
+45,Director - Data Science (Market Mix Modelling),"[('', 'Largest Media Investment Company')]",,,0-15,"Bangalore Rural, Bengaluru",1,,Market Mix Modelling
+46,Analyst-Data Science,"[('AMERICAN EXPRESS', '')]",4.2,2826,1-4 ,Gurugram,1,,Product management
+47,Data Science Analytics Sr Analyst,"[('Accenture', '')]",4.0,49765,5-8 ,Kolkata,5,,automation anywhere
+48,Statistical Data Sciences Lead,"[('Pfizer', '')]",4.1,1688,8-15,Chennai,8,,Statistical programming
+49,Data Science Engineer,"[('Global Pharma Tek', '')]",3.1,23,1-4 ,Bengaluru,1,,python
+50,Analyst-Data Science,"[('', 'Resy')]",,,1-3 ,Gurugram,1,,Career development
+51,S&C Global Network - AI - Hi Tech - Data Science Consultant,"[('Accenture', '')]",4.0,49765,4-8 ,"Kolkata, Hyderabad, Gurugram",4,,erp
+52,Lead I - Data Science,"[('UST', '')]",3.8,3859,5-7 ,Pune,5,,data cleansing
+53,Consultant Data Science,"[('Aspect Ratio', '')]",3.8,23,3-6 ,Pune,3,,excel
+54,Data Science Lead,"[('EXL', '')]",3.8,6349,8-13,Hybrid - Gurugram,8,,Data Science
+55,Manager - Data Science,"[('Novartis', '')]",4.1,1447,6-11,Hyderabad,6,,Automation
+56,Manager Data Science,"[('Novartis', '')]",4.1,1447,4-7 ,Hyderabad,4,,Digital media
+57,"Generative AI Lead Engineer, Data Science","[('Johnson and Johnson Kenvue', '')]",4.1,33,5-6 ,Bengaluru,5,,Computer science
+58,Data Science Analyst,"[('', 'Ira Commerce')]",,,3-8 ,Hyderabad,3,,Analyst
+59,Technical Specialist - Data Science / AI Automations,"[('IBM', '')]",4.1,20435,1-3 ,Bengaluru,1,,spss
+60,Data Science Consultant,"[('Wells Fargo', '')]",4.0,5646,3-6 ,Bengaluru,3,,Computer science
+61,Specialist: Data Science,"[('Diageo', '')]",4.1,812,4-7 ,Bengaluru,4,,Logistic regression
+62,Data Science Engineer,"[('', 'Jobsmill')]",,,5-10,Hyderabad,5,,Data Science
+63,Data Science Analyst,"[('Trane Technologies', '')]",4.2,188,5-10,Bengaluru,5,,Supply chain management
+64,Data Science Analytics Analyst,"[('Accenture', '')]",4.0,49765,2-5 ,Gurugram,2,,advanced analytics
+65,Senior Engineer Consultant-Data Science,"[('', 'Verizon\nPosted by Joveo Technologies')]",,,4-9 ,Hybrid - Hyderabad,4,,Machine learning techniques
+66,Senior Business Analyst - Data Science,"[('Saisystems Technology', '')]",2.9,44,5-10,Pune,5,,Data Science
+67,Senior Data Science Analyst,"[('', 'Epsilon Asia Group Of Companies')]",,,2-6 ,Gurugram,2,,Basic
+68,Engineer - Data Science,"[('Altimetrik', '')]",3.8,902,5-10,Bengaluru,5,,Automation
+69,S&C Global Network - AI - CMT - Analyst Data Science,"[('Accenture', '')]",4.0,49765,5-9 ,"Hyderabad, Gurugram, Bengaluru",5,,mathematics
+70,Senior Lead Engineer - Data Science,"[('Guardian life', '')]",4.1,634,2-5 ,Chennai,2,,algorithms
+71,S&C Global Network - AI - Hi Tech - Data Science Sr. Analyst,"[('Accenture', '')]",4.0,49765,2-5 ,Hyderabad,2,,erp
+72,Data Science Associate Consultant,"[('ZS', '')]",3.4,1897,3-5 ,"Hybrid - Pune, Gurugram, Bengaluru",3,,Data Science
+73,Data Science Specialist,"[('', 'Rellio Services')]",,,2-4 ,Bengaluru,2,,Health insurance
+74,Manager Data Science,"[('', 'Epsilon Asia Group Of Companies')]",,,3-7 ,Bengaluru,3,,Logistic regression
+75,"Staff Engineer (Python, Data Science)","[('Nagarro', '')]",4.1,3833,7-10,Remote,7,,Data Science
+76,Data Science Analyst,"[('Clinztech Research Solutions', '')]",4.2,14,0-4 ,Hyderabad,0,,SAP
+77,Sr. Data Scientist / Data Science Manager,"[('Oportun', '')]",3.3,18,2-7 ,Remote,2,,Logistic regression
+78,Senior Data Scientist / Data Science Manager,"[('Oportun', '')]",3.3,18,2-7 ,Remote,2,,Logistic regression
+79,Data Science Engineer - Data Analyst/Scientist,"[('Response Informatics', '')]",3.7,22,1-5 ,"Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",1,,Operations research
+80,Senior Developer - Data Science/ BI,"[('', 'A Client of Radial HR Solutions')]",,,7-12,"Noida, Bangalore/Bengaluru",7,,Power BI
+81,Lead - Data Science & Insights,"[('Starbucks', '')]",4.3,626,8-13,"Mumbai Suburban, Navi Mumbai, Mumbai (All Areas)",8,,Data Science
+82,Data Science Analyst,"[('', 'Epsilon Asia Group Of Companies')]",,,2-5 ,Gurugram,2,,Basic
+83,Data Science Consultant For HLBIA Marketing Analytics,"[('Wells Fargo', '')]",4.0,5646,3-6 ,Bengaluru,3,,Computer science
+84,Analyst-Data Science,"[('', 'Resy')]",,,1-3 ,Gurugram,1,,Product management
+85,Data Science Intern,"[('Cloud Counselage', '')]",3.9,20,0-1 ,"Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",0,,Computer science
+86,"Data Science Analyst, Product Knowledge","[('', 'The Networker')]",,,7-12,Bengaluru,7,,Data analysis
+87,Associate / Sr. Associate Manager Safety Data Sciences,"[('Eli Lilly And Company', '')]",4.0,374,3-7 ,Bengaluru,3,,Business process
+88,Sr. Data Science Engineer,"[('', 'Sony\nPosted by Dynpro India')]",,,4-6 ,Hybrid - Bengaluru,4,,NoSQL database
+89,Data Science Trainer,"[('', 'TechKnowledgeHub.org')]",,,4-5 ,Remote,4,,Training
+90,Data Science Trainer,"[('', 'TechKnowledgeHub.org')]",,,4-5 ,Remote,4,,Training
+91,Team Lead - Data Science,"[('', 'Resource Infinite')]",,,7-8 ,New Delhi,7,,Team management
+92,Intern - Data Sciences,"[('Siemens', '')]",4.1,4303,0-1 ,Bengaluru,0,,Data analysis
+93,Data Science - Gen AI - Senior Associate,"[('Pricewaterhouse Coopers Private Limited', '')]",3.5,7920,3-5 ,"Hyderabad, Bengaluru",3,,Cloud computing
+94,Senior Analyst Data Science,"[('Novartis', '')]",4.1,1447,2-4 ,Hyderabad,2,,Computer science
+95,Senior Analyst Data Science,"[('Navit Software Solutions', '')]",4.7,6,5-8 ,"Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",5,,Analytical skills
+96,Data Science Lead,"[('', 'Fortune India 500 MNC')]",,,5-8 ,Pune,5,,Predictive Modeling
+97,AVP- Data Science,"[('', 'other\nPosted by Windows Consultants')]",,,7-12,"Gurugram, Mumbai (All Areas)",7,,Data Science
+98,Data Science Trainer,"[('GAC Digital', '')]",3.9,4,0-11,Hyderabad,1,,Data Science
+99,Data Science Professional,"[('Davinta Financial Services', '')]",4.5,13,2-5 ,Bengaluru,2,,matlab
+100,Data Science Lead,"[('', 'Netfolks Consulting')]",,,7-9 ,"Noida, Hyderabad, Agra",7,,scipy
+101,Data Science Engineer,"[('Cybage', '')]",3.9,1768,8-13,Pune,8,,Data Science
+102,Senior Data Science Engineer,"[('Iris Solutions', '')]",2.1,5,3-7 ,Noida,3,,Computer vision
+103,Data Science - Senior Engineer,"[('Iris Solutions', '')]",2.1,5,3-7 ,Noida,3,,Computer vision
+104,S&C Global Network - AI - Hi Tech - Data Science Consultant,"[('Accenture', '')]",4.0,49765,5-10,Gurugram,5,,erp
+105,Data Science Manager,"[('Sixt Research And Development', '')]",3.0,40,5-10,Bengaluru,5,,Automation
+106,Data Science Solution Architect (Immediate Joiners),"[('Tredence', '')]",3.6,378,9-14,"Hybrid - Gurugram, Chennai, Bengaluru",9,,Data Science
+107,Manager - Data Science,"[('', 'Trendence')]",,,8-10,Bengaluru,8,,Computer science
+108,Data Science Lead,"[('Firsthive', '')]",3.6,16,7-12,Bengaluru,7,,Product management
+109,Manager -Data Science-Digital Product & Transformation -IFS,"[('Pricewaterhouse Coopers Private Limited', '')]",3.5,7920,8-12,Gurugram,8,,Training
+110,Lead - Data Science,"[('Equifax Credit Information Services Private Limited', '')]",3.3,147,7-9 ,Bengaluru,7,,Stress testing
+111,Senior Manager - Data Science,"[('Marsh McLennan Companies', '')]",4.1,578,8-12,Mumbai,8,,C++
+112,S&C Global Network - AI - Hi Tech - Data Science Manager,"[('Accenture', '')]",4.0,49765,0-12,"Hyderabad, Gurugram, Bengaluru",1,,python
+113,Hiring - Analytics and Data Science Delivery Lead,"[('Firstsource', '')]",3.7,4193,2-18,"Hybrid - Bengaluru, Mumbai (All Areas)",1,,Data Visualization.
+114,DATA SCIENCE Professional,"[('Capgemini', '')]",3.8,36874,6-9 ,"Hyderabad, Pune, Bengaluru",6,,Python
+115,Analytics Data science and IOT Lead,"[('Hexaware Technologies', '')]",3.6,5151,5-9 ,"Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",5,,time series analysis
+116,Data Science Engineer (Artificial intelligence),"[('Eclature', '')]",3.3,19,0-2 ,Hyderabad,0,,ASR
+117,Analyst Data Science,"[('Navit Software Solutions', '')]",4.7,6,3-7 ,"Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",3,,Business objects
+118,Senior Manager - Data Science,"[('', 'Insurance Broking')]",,,1-6 ,Mumbai (All Areas),1,,Data Science
+119,Data Science Virtual(Zoom) interviews For Senior/Lead on 14th Sep-Sat,"[('Globaldata', '')]",3.6,439,4-8 ,Hybrid - Hyderabad(Kondapur),4,,Data Science
+120,Senior Engineer Consultant-Data Science,"[('', 'Verizon\nPosted by Joveo Technologies')]",,,4-9 ,Hybrid - Chennai,4,,Machine learning techniques
+121,Senior Analyst - Data Science,"[('Indegene', '')]",3.5,996,2-4 ,Bengaluru,2,,Analyst
+122,Data Science Engineer (NLP),"[('V2SOLUTIONS', '')]",3.6,179,6-11,Remote,6,,Fine Tuning
+123,Data Science - Engineer,"[('Iris Solutions', '')]",2.1,5,3-5 ,Noida,3,,Computer vision
+124,S&C Global Network - AI - Life Sciences -Data Science Analyst,"[('Accenture', '')]",4.0,49765,0-14,Bengaluru,1,,digital marketing
+125,Lead Data Science,"[('Nitor', '')]",3.9,141,6-9 ,Pune,6,,open AI GPT
+126,"Manager, Data Science & AI","[('Pfizer', '')]",4.1,1688,0-8 ,Mumbai,0,,Operations research
+127,Manager - Data Science,"[('Marsh McLennan Companies', '')]",4.1,578,5-8 ,Mumbai,5,,Automation
+128,"Data Science Lead, DnATech","[('Prescient', '')]",1.7,4,6-8 ,Gurugram,6,,Computer science
+129,Specialist - Data Science,"[('FIS', '')]",3.9,5143,5-12,Gurugram,5,,advanced analytics
+130,Data Science - Lead,"[('Iris Solutions', '')]",2.1,5,3-8 ,Noida,3,,Computer vision
+131,Data Science Engineer,"[('', 'Tetrahed Inc')]",,,1-3 ,Bengaluru,1,,Data Science
+132,Senior Data Science Engineer (AI/ML Developer),"[('Siemens', '')]",4.1,4303,6-10,Bengaluru,6,,Data analysis
+133,Data Science Head,"[('', 'Software Development')]",,,2-20,Delhi / NCR,1,,Data Science
+134,Program HEAD - DATA Science,"[('', 'Chitkara Educational Trust')]",,,4-8 ,Mohali,4,,Data Engineering
+135,Lead Data Science Consultant,"[('Wells Fargo', '')]",4.0,5646,8-12,Hyderabad,8,,Data analysis
+136,Data Science Analyst,"[('', 'Ira Commerce')]",,,1-3 ,Hyderabad,1,,data science
+137,Senior Manager - Data Science and Analytics,"[('', 'Metafolks')]",,,5-10,Pune,5,,Computer science
+138,Data Science Analyst (Senior),"[('Infogain', '')]",3.6,983,6-8 ,Gurugram,6,,Data analysis
+139,Data Analyst (Data Science with 1 year contract),"[('Kantar', '')]",3.8,70,7-12,Mumbai,7,,Statistical Programming
+140,S&C Global Network - AI - Life Sciences -Data Science Analyst,"[('Accenture', '')]",4.0,49765,2-5 ,Gurugram,2,,microsoft azure
+141,"Senior Expert Data Science- CRM (Cardiovascular, Renal, Metabolism)","[('Novartis', '')]",4.1,1447,4-7 ,Hyderabad,4,,Data analysis
+142,Python Developer (Data Science),"[('', 'Coreinsightsai')]",,,1-4 ,"Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",1,,Solution architecture
+143,"Senior Developer, Data Science","[('', 'International Centre For Excellence (ice)')]",,,3-7 ,Hyderabad,3,,Computer science
+144,Engineer - Data Science (DATA SCIENCE ENGINEER),"[('Ninestars Information Technologies', '')]",3.3,199,0-1 ,Bengaluru,0,,Computer vision
+145,S&C Global Network - AI - Life Sciences -Data Science Sr. Manager,"[('Accenture', '')]",4.0,49765,2-14,Bengaluru,1,,hypothesis testing
+146,S&C Global Network - AI - Hi Tech - Data Science Sr. Manager,"[('Accenture', '')]",4.0,49765,2-14,Bengaluru,1,,microsoft azure
+147,Senior Specialist - Data Science,"[('Infineon', '')]",3.8,181,3-5 ,Bengaluru,3,,Automation
+148,Senior Specialist - Data Science,"[('Infineon', '')]",3.8,181,1-3 ,Bengaluru,1,,Automation
+149,Senior Data Science Consultant,"[('Wells Fargo', '')]",4.0,5646,4-8 ,Bengaluru,4,,Computer science
+150,Senior Data Science Consultant,"[('Wells Fargo', '')]",4.0,5646,2-8 ,Bengaluru,2,,Data analysis
+151,Data Science & Analytics Engagement Lead,"[('CANPACK', '')]",4.3,235,5-18,Pune,1,,Computer science
+152,Data Science Professional,"[('NeoSOFT', '')]",4.0,1475,2-10,Mumbai,2,,matlab
+153,Real-Time Analytics and Data Science Lead,"[('FIS', '')]",3.9,5143,3-6 ,Gurugram,3,,data science
+154,Analyst/Consultant - Data Science,"[('Blue Altair', '')]",5.0,8,1-3 ,Pune,1,,Manager Quality Assurance
+155,Data Science Engineer - Bangalore & Hyderabad,"[('', 'Leading Brand')]",,,3-6 ,"Hyderabad, Bengaluru",3,,Data Science
+156,"Senior Engineer, Data Science","[('Renault', '')]",4.3,470,,Chennai,7,,Computer vision
+157,Director - Data Science-Operations-IT Services-Hyderabad-Bangalore-Che,"[('', 'Crescendo Global')]",,,2-16,"Hyderabad, Chennai, Bengaluru",1,,Data Science
+158,Data Science Practitioner,"[('Accenture', '')]",4.0,49765,3-5 ,Bengaluru,3,,machine learning
+159,S&C Global Network - AI - Resources - Assoc Director Data Science,"[('Accenture', '')]",4.0,49765,2-14,Bengaluru,1,,data modeling
+160,S&C Global Network - AI - CG&S - Consultant Data Science,"[('Accenture', '')]",4.0,49765,5-10,Gurugram,5,,continuous integration
+161,S&C Global Network - AI - CG&S - Consultant Data Science,"[('Accenture', '')]",4.0,49765,5-10,Bengaluru,5,,continuous integration
+162,S&C Global Network - AI - CG&S - Manager Data Science,"[('Accenture', '')]",4.0,49765,0-12,Bengaluru,1,,continuous integration
+163,S&C Global Network - AI - CG&S - Manager Data Science,"[('Accenture', '')]",4.0,49765,0-12,Gurugram,1,,continuous integration
+164,S&C Global Network - AI - Life Sciences -Data Science Consultant,"[('Accenture', '')]",4.0,49765,4-8 ,Bengaluru,4,,microsoft azure
+165,S&C Global Network - AI - CG&S - Manager Data Science,"[('Accenture', '')]",4.0,49765,0-12,Gurugram,1,,python
+166,S&C Global Network - AI - Life Sciences -Data Science Consultant,"[('Accenture', '')]",4.0,49765,4-9 ,Bengaluru,4,,microsoft azure
+167,S&C Global Network - AI - Hi Tech - Data Science Asso. Manager,"[('Accenture', '')]",4.0,49765,5-10,Bengaluru,5,,erp
+168,S&C Global Network - AI - CG&S - Viz Consultant Data Science,"[('Accenture', '')]",4.0,49765,3-7 ,Gurugram,3,,bi
+169,S&C Global Network - AI - Life Sciences -Data Science Manager,"[('Accenture', '')]",4.0,49765,0-12,"Mumbai, Bengaluru, Delhi / NCR",1,,digital marketing
+170,S&C Global Network - AI - CG&S - Consultant Data Science,"[('Accenture', '')]",4.0,49765,5-10,Bengaluru,5,,advanced analytics
+171,Data Science Practitioner,"[('Accenture', '')]",4.0,49765,3-8 ,Bengaluru,3,,azure machine learning
+172,S&C Global Network - AI - CG&S - Consultant Data Science,"[('Accenture', '')]",4.0,49765,5-10,Gurugram,5,,advanced analytics
+173,S&C Global Network - AI - CG&S - Consultant Data Science,"[('Accenture', '')]",4.0,49765,5-10,Bengaluru,5,,advanced analytics
+174,Data Science Practitioner,"[('Accenture', '')]",4.0,49765,3-5 ,Bengaluru,3,,azure machine learning
+175,Group Manager - Data Science,"[('Wns Global Service', '')]",3.5,10098,2-6 ,Bengaluru,2,,Logistic regression
+176,S&C Global Network - AI - CMT - Consultant Data Science LLM,"[('Accenture', '')]",4.0,49765,4-9 ,"Gurugram, Bengaluru",4,,algorithms
+177,S&C Global Network - AI - CMT - Consultant Data Science LLM,"[('Accenture', '')]",4.0,49765,4-9 ,Bengaluru,4,,algorithms
+178,S&C Global Network - AI - CMT - Consultant Data Science LLM,"[('Accenture', '')]",4.0,49765,5-10,Bengaluru,5,,algorithms
+179,MACHINE LEARNING / DATA SCIENCE TRAINER,"[('Ethnotech Academy', '')]",3.5,24,2-5 ,Bengaluru,2,,Training
+180,Data Science Consultant,"[('Wells Fargo', '')]",4.0,5646,1-4 ,Bengaluru,1,,Data analysis
+181,Business Analyst - Data Science,"[('', 'Biz Tecno')]",,,3-8 ,Chandigarh,3,,Data analysis
+182,Senior Product Manager - Data Science & AI,"[('Icertis', '')]",3.7,256,2-15,Pune,1,,Product management
+183,"Senior Associate, Senior Data Manager, Clinical Data Sciences","[('Pfizer', '')]",4.1,1688,5-8 ,Chennai,5,,Operational excellence
+184,Senior Engineer - Data Science ( AI/ML),"[('Saviynt', '')]",2.7,58,6-7 ,Bengaluru,6,,Computer science
+185,Senior Analyst - Data Science,"[('', 'Resy')]",,,2-4 ,Gurugram,2,,Finance
+186,Trainee in Data Science,"[('Beinex', '')]",3.2,26,0-2 ,Kochi,0,,Training
+187,Engineering Manager - AI & Data Science,"[('Cyara', '')]",3.4,11,5-8 ,Hyderabad,5,,Product management
+188,Data Science Engineer - Machine/Deep Learning Models - R/Python/Scala,"[('CARBYNETECH', '')]",4.3,27,4-8 ,Hyderabad,4,,Data Science
+189,Data Science Engineer - Deep Learning/Neural Networks,"[('CARBYNETECH', '')]",4.3,27,3-7 ,Hyderabad,3,,Data Science
+190,Data Science Engineer - Machine / Deep Learning Models- R/Python/Scala,"[('CARBYNETECH', '')]",4.3,27,4-8 ,Hyderabad,4,,Data Science
+191,Data science engineer (Artificial intelligence) - Eclature,"[('Eclature', '')]",3.3,19,5-10,Hyderabad,5,,Computer vision
+192,Data Science Engineer - Deep Learning / Neural Networks,"[('CARBYNETECH', '')]",4.3,27,3-7 ,Hyderabad,3,,CNN
+193,Data Science Engineer,"[('', 'Innoart Technologies')]",,,3-5 ,"Hyderabad, Chennai",3,,Unix
+194,Marketing Analyst - Data Science,"[('', 'Triangle Global')]",,,2-15,"Noida, Pune, Bengaluru",1,,Marketing analytics
+195,Senior Engineer - Data Science,"[('Altimetrik', '')]",3.8,902,6-8 ,Chennai,6,,deep learning
+196,Data Science Lead,"[('Amnet Digital', '')]",3.8,31,7-9 ,Hyderabad,7,,Automation
+197,Data Science Lead,"[('TELUS International', '')]",3.8,992,0-15,"Hybrid - Noida, Bengaluru",1,,Data Science
+198,Data Science Consultants,"[('Soothsayer Analytics', '')]",2.9,2,2-7 ,Hyderabad,2,,RDBMS
+199,Data Science Lead,"[('', 'Beechi Vidya Kendra Trust')]",,,3-5 ,"Hyderabad, Ahmedabad",3,,IT services
+200,Python Professional - ML & Data Science,"[('Solventek', '')]",3.7,11,3-5 ,Hyderabad,3,,data science
+201,Data Science Delivery Lead,"[('Themathcompany', '')]",3.0,321,5-9 ,Bengaluru,5,,Delivery Lead
+202,Data Science Manager,"[('Lam Research', '')]",3.7,235,2-4 ,Bengaluru,2,,metadata
+203,CarbyneTech - Data Science Engineer - Machine/Deep Learning Models,"[('', 'Leading Client')]",,,4-8 ,Hyderabad,4,,Brand Management
+204,MBSE AI/ML/Data Science Engineer,"[('Satven', '')]",3.9,378,4-6 ,Chennai,4,,Claims
+205,Senior Data Analyst,"[('Mobinius Technologies', '')]",3.7,16,0-5 ,Bengaluru,0,,Analytical skills
+206,Data Science Practitioner,"[('Accenture', '')]",4.0,49765,5-7 ,Pune,5,,data science
+207,Data Science Practitioner,"[('Accenture', '')]",4.0,49765,2-4 ,Gurugram,2,,python
+208,Data Science Practitioner,"[('Accenture', '')]",4.0,49765,3-7 ,Pune,3,,data science
+209,Data Science Professional - ML / AI / GenAI,"[('Capgemini', '')]",3.8,36874,6-11,Mumbai,6,,Data Science
+210,Gen AI ( Data science ) professional,"[('Capgemini', '')]",3.8,36874,9-12,Mumbai,9,,Data science
+211,Manager - Third Party Risk_ Data Science - Advisory - Mumbai,"[('Pricewaterhouse Coopers Private Limited', '')]",3.5,7920,7-12,Mumbai,7,,Data analysis
+212,Assistant Manager - Data Science,"[('Adidas', '')]",3.9,526,3-8 ,Gurugram,3,,data science
+213,Engineer - Data Science ( AI/ML),"[('Saviynt', '')]",2.7,58,2-6 ,Bengaluru,2,,Computer science
+214,"Senior Engineer, Data Science","[('Renault Nissan Technology and Business Centre India (RNTBCI)', '')]",3.8,1501,4-7 ,Chennai,4,,Computer vision
+215,Lead/ Senior Data Science Engineer,"[('Tuebora', '')]",3.5,12,5-7 ,Bengaluru,5,,Training
+216,"Manager, Data Science","[('Clarivate', '')]",3.9,525,7-8 ,"Noida, Bengaluru",7,,Claims
+217,Lead Data Science Engineer,"[('', 'Wolters Kluwer - Medknow Publications')]",,,5-10,Pune,5,,Data analysis
+218,Data Science/Analyst,"[('', 'MyfutureJob')]",,,2-5 ,New Delhi,2,,Computer science
+219,Data Science Manager,"[('Nits Solutions', '')]",3.1,48,9-14,Hybrid - Gurugram,9,,Data Science
+220,Lead Data Science,"[('Mahindra Mahindra Financial Services Ltd', '')]",4.2,4032,3-7 ,Mumbai,3,,Supply chain
+221,Senior Vice President - Data Science (Head of DS),"[('', 'Confidential Market research')]",,,5-24,Hybrid - Bengaluru,1,,Data Science
+222,Data Science Engineer,"[('Global Pharma Tek', '')]",3.1,23,1-4 ,Bengaluru,1,,hive
+223,Data Science Engineer,"[('Cybage', '')]",3.9,1768,8-12,Pune,8,,Data Science
+224,Machine Learning / Data Science Engineers,"[('Svayo', '')]",4.8,2,2-5 ,Bengaluru,2,,data science
+225,Data Science Engineer,"[('', 'Cognisure')]",,,7-10,"Pune, Bengaluru",7,,NoSQL
+226,AI and Data Science Engineer,"[('', 'Rtwo Healthcare')]",,,3-8 ,Bengaluru,3,,Analytical
+227,Data Science Engineer,"[('Kibbcom', '')]",4.4,7,1-3 ,Bengaluru,1,,data science
+228,AVP - Data Science (Data Engineering and ML Modeling),"[('Aye Finance', '')]",4.2,1120,3-8 ,Gurugram,3,,Automation
+229,Data Science Engineer,"[('Tuebora', '')]",3.5,12,1-3 ,Bengaluru,1,,Data analysis
+230,Sr Data Science Engineer,"[('', 'Fold Health')]",,,4-7 ,Pune,4,,Computer science
+231,Senior Digital Innovation Engineer - Data Science,"[('Buckman', '')]",3.7,17,3-7 ,Chennai,3,,Text mining
+232,Urgent Opening For PART TIME Trainer For Data Science,"[('', 'Esteem client of HR REMEDY INDIA')]",,,2-20,Remote,1,,Data Science
+233,Manager - Data Science,"[('Tredence', '')]",3.6,378,8-13,"Kolkata, Pune, Chennai, Gurugram, Bengaluru",8,,Data analysis
+234,Intermediate Data Science Specialist,"[('', 'Camp Dresser & Mckee')]",,,3-7 ,Bengaluru,3,,Computer science
+235,Data Science Manager,"[('Antworks', '')]",3.2,50,0-20,"Chennai, Bengaluru",1,,Computer science
+236,Data Science Manager,"[('Tesco', '')]",3.9,1192,2-6 ,Bengaluru,2,,Supply chain
+237,Manager - Data Science,"[('Digit88', '')]",3.6,15,5-7 ,Bengaluru,5,,Product engineering
+238,Manager Technology - Data Sciences,"[('Trane Technologies', '')]",4.2,188,0-12,Bengaluru,1,,HVAC
+239,Data Science Professional,"[('Xitadel', '')]",3.6,59,2-6 ,Bengaluru,2,,deep learning
+240,Data Science Consultant (Optimization / Supply Chain and Manufacturing,"[('ZS', '')]",3.4,1897,6-9 ,"Hybrid - Pune, Bengaluru",6,,Data Science
+241,Chapter Lead Data Science - Technology (Cyber Security),"[('Commonwealth Bank', '')]",3.7,421,4-8 ,Bengaluru,4,,Computer science
+242,"Group Lead, Clinical Data Science","[('ICON plc', '')]",4.1,563,8-13,"Chennai, Bengaluru, Thiruvananthapuram",8,,Administration management
+243,"Group Lead, Clinical Data Science","[('ICON plc', '')]",4.1,563,8-13,"Chennai, Bengaluru, Thiruvananthapuram",8,,Administration management
+244,Data Science Specialist AI ML NLP,"[('Global Pharma Tek', '')]",3.1,23,5-8 ,Bengaluru,5,,Text mining
+245,Data Science Engineer (R Studio),"[('', 'IPS group')]",,,4-8 ,"Pune, Chennai, Bengaluru",4,,Data Science
+246,Associate Director Data Science,"[('S&P Global Market Intelligence', '')]",4.2,2294,0-15,"Hyderabad, Gurugram, Bengaluru",1,,Data Science
+247,Senior Associate Data Science L2,"[('', 'Epsilon Asia Group Of Companies')]",,,8-12,Gurugram,8,,Computer science
+248,SENIOR MANAGER DATA SCIENCE AND SOLUTIONS,"[('NMD', '')]",4.7,13,5-8 ,Gurugram,5,,Mining
+249,Senior Manager - Data Science,"[('', 'Resy')]",,,4-9 ,Gurugram,4,,Career development
+250,Data Science Developer,"[('', 'Paxera Health')]",,,5-8 ,Remote,5,,Computer science
+251,Data Science || Lead Data Science - NLP,"[('', 'Hiring for Client and industry is IT Services & Consulting')]",,,4-9 ,Remote,4,,Data Science
+252,Data Scientist,"[('Dimiour', '')]",3.0,7,3-7 ,"Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",3,,data analytics
+253,Intern - Data Science,"[('RGA', '')]",4.5,6,1-6 ,Mumbai,1,,Data analysis
+254,DATA SCIENCE INTERN,"[('Medtek Dot Ai', '')]",3.0,2,1-3 ,Noida,1,,Statistical programming
+255,"Senior Manager-Data Science with a Top Brand, Mumbai Santacruz,WFO","[('', ""India's leading content distribution platform"")]",,,5-10,Mumbai (All Areas)(Santacruz East),5,,Data Science
+256,Data Scientist: Artificial Intelligence,"[('IBM', '')]",4.1,20435,7-12,Bengaluru,7,,python
+257,Data Science Engineer,"[('', 'Voiceowl Bot Pvt Ltd')]",,,3-6 ,Indore,3,,Natural Language Processing
+258,Data Science Engineer,"[('Nurdsoft', '')]",4.4,2,1-3 ,Remote,1,,python
+259,DATA SCIENCE ENGINEERS WITH PYTHON SKILLS,"[('Summit Information Technologies Pvt. Ltd.c', '')]",2.9,7,2-9 ,Gurugram,2,,data science
+260,DATA SCIENCE ENGINEER,"[('', 'Twirll')]",,,3-8 ,Noida,3,,Computer science
+261,Data Science Engineers,"[('Jidoka Technologies', '')]",4.9,2,1-4 ,Chennai,1,,hive
+262,BigData/Data Science Engineer,"[('Quantta Analytics Pvt Ltd.', '')]",4.2,7,4-8 ,Pune,4,,Interpersonal skills
+263,Data Science Engineer,"[('Consilium Software', '')]",2.2,12,2-5 ,New Delhi,2,,data science
+264,Data Science Engineer 1,"[('Emerson', '')]",4.2,400,1-3 ,Pune,1,,Data analysis
+265,Data Science Engineer,"[('Iris Solutions', '')]",2.1,5,2-5 ,Noida,2,,data science
+266,Senior Executive - Data Science & Analytics,"[('VIA', '')]",3.9,74,0-3 ,Mumbai,0,,Google Analytics
+267,Data Science Manager,"[('Antworks', '')]",3.2,50,0-20,Chennai,1,,Computer vision
+268,Data Science Manager,"[('_VOIS', '')]",3.9,611,0-15,Hybrid - Pune,1,,Predictive Modeling
+269,Data Science trainer,"[('Datavalley.AI', '')]",4.9,29,2-5 ,Vijayawada,2,,python
+270,Data Science Professional,"[('Coders Brain Pvt Ltd', '')]",3.3,35,2-6 ,Gurugram,2,,Data analysis
+271,Lead I - Data Science,"[('UST', '')]",3.8,3859,5-7 ,Chennai,5,,Automation
+272,"Manager, Data Science & Analytics","[('Transunion', '')]",3.9,340,7-10,Mumbai,7,,Logistic regression
+273,Lead II - Data Science,"[('UST', '')]",3.8,3859,7-9 ,Thiruvananthapuram,7,,Data analysis
+274,Data Science Professional,"[('Extentia', '')]",3.5,144,4-9 ,Pune,4,,deep learning
+275,Data Science Trainer,"[('', 'TechKnowledgeHub.org')]",,,3-6 ,Remote,3,,Training
+276,Data Science Trainer,"[('', 'Imagecon Academy')]",,,2-5 ,Salem,2,,Analytical skills
+277,Data Science - Trainer,"[('Prime Search', '')]",5.0,2,3-9 ,Gurugram,3,,Training
+278,Data Science Professional,"[('Four Pillars Infotech India', '')]",3.9,5,2-3 ,Pune,2,,Database design
+279,Data Science Trainer,"[('INFOWIZ', '')]",4.0,10,1-3 ,Chandigarh,1,,Usage
+280,Data Science Manager,"[('Coders Brain Pvt Ltd', '')]",3.3,35,5-9 ,Kolkata,5,,Solution design
+281,Data Science Lead,"[('', 'Odetta')]",,,4-7 ,Remote,4,,Team management
+282,Data Science Manager-R&D,"[('Flytxt', '')]",4.2,49,5-10,Thiruvananthapuram,5,,Computer science
+283,Data Analyst with Python,"[('Globallogic', '')]",3.7,4012,5-10,Chennai,5,,insurance
+284,Risk Advisory Data Analytics Analyst,"[('KPMG Assurance and Consulting Services LLP', '')]",3.6,5025,0-2 ,Gurugram,0,,python
+285,Jr. Data Scientist / Data Scientist,"[('Applied Data Finance', '')]",4.4,42,0-3 ,"Hyderabad, Chennai, Bengaluru",0,,Data Science
+286,"Analyst 3, Data Analytics","[('Western Digital', '')]",3.9,103,3-5 ,Bengaluru,3,,Process design
+287,Data Scientist Consultant,"[('', 'Confidential\nPosted by Aarons Visions')]",,,6-11,"Hyderabad, Pune, Bengaluru",6,,Data Science
+288,Data Scientist,"[('Arcelormittal', '')]",4.1,314,2-18,"Hyderabad, Ahmedabad, Delhi / NCR",1,,Hadoop
+289,Associate Data Analyst,"[('Bitlabs', '')]",4.1,5,0-2 ,Hyderabad,0,,excel
+290,Senior Manager-Data Science,"[('AMERICAN EXPRESS', '')]",4.2,2826,4-8 ,Gurugram,4,,Career development
+291,Data Scientist: Artificial Intelligence,"[('IBM', '')]",4.1,20435,3-7 ,"Hyderabad, Bengaluru",3,,algorithms
+292,Data Scientist (Gen AI),"[('EY', '')]",3.6,9271,6-11,"Hybrid - Hyderabad, Bengaluru, Delhi / NCR",6,,Data Science
+293,Data Scientist: Artificial Intelligence,"[('IBM', '')]",4.1,20435,4-8 ,"Hyderabad, Bengaluru",4,,predictive analytics
+294,Data Scientist,"[('Hbic Solutions', '')]",4.5,9,0-2 ,Hyderabad,0,,deep learning
+295,Data Science Analytics Specialist - Human Resources Shared Services,"[('Accenture', '')]",4.0,49765,7-11,Bengaluru,7,,data analytics
+296,Data Scientist: Artificial Intelligence,"[('IBM', '')]",4.1,20435,5-7 ,Pune,5,,python
+297,Data Scientist,"[('IIFL Finance', '')]",4.0,4937,3-6 ,Gurugram,3,,Data Science
+298,Analytics Data Scientist,"[('Infosys', '')]",3.8,34625,3-5 ,Bengaluru,3,,Analytics Data Science
+299,Data Science,"[('', 'Onelogica')]",,,0-1 ,"Noida, Greater Noida",0,,python
+300,Fresher - Data Science,"[('Fipsar Technologies', '')]",2.8,2,0-3 ,Chennai,0,2.5-3.7,Data Science
+301,Data Analyst _Goa_Fresher/Experienced,"[('', 'Creative Hr Solutions')]",,,0-2 ,"Madgaon, Goa",0,,Data Analytics
+302,Sr. Data Science Engineer : MNC Client : Bangalore,"[('', 'Skillmine Technology')]",,,6-11,Hybrid - Bengaluru,6,,Data Science
+303,Data Scientist (LLM) - Remote,"[('', 'AK Vision Associates')]",,,5-30,Remote,2,,Data Science
+304,Manager - Data Scientist,"[('Prudent Insurance Brokers', '')]",3.7,92,3-4 ,"Mumbai, Gurugram, Bengaluru",3,,python
+305,Gen AI Data Scientist - Pan India,"[('Genpact', '')]",3.9,27838,6-11,"Hyderabad, Gurugram, Bengaluru",6,,Generative AI
+306,Cognizant Hiring For Gen AI - Data Science,"[('Cognizant', '')]",3.8,45037,6-11,"Hybrid - Hyderabad, Chennai, Bengaluru",6,,GEN AI
+307,Data science,"[('Banyan Solutions', '')]",2.0,2,2-5 ,Hyderabad,2,,data science
+308,Senior Data Scientist,"[('', 'Corpay')]",,,5-9 ,Chennai,5,,tableau
+309,Data Science and Data Scientist Trainer,"[('', 'Dreamsplus Consulting')]",,,5-7 ,Hybrid - Chennai,5,,Strong knowledge of Data Science concepts and techniques
+310,Data Science Manager,"[('Micron Semiconductor Technology India', '')]",3.7,274,0-15,Sanand,1,,Data Science
+311,Data Scientist 2,"[('Microsoft', '')]",4.1,1535,5-7 ,Hyderabad,5,,Data Science
+312,Data Scientist (Image & Visual Data Analysis),"[('', 'Live Connections')]",,,7-12,"Hyderabad, Pune, Bengaluru",7,,Data Science
+313,Associate Data Analyst,"[('Tekworks', '')]",5.0,2,0-2 ,Bengaluru,0,,excel
+314,Data Analyst - Associate,"[('Pricewaterhouse Coopers Private Limited', '')]",3.5,7920,3-6 ,"Kolkata, Hyderabad, Bengaluru",3,,Data analysis
+315,Senior Data Scientist,"[('KPI Partners', '')]",3.3,107,6-10,"Hyderabad, Bengaluru",6,,Training
+316,Cyber R&R - ER&CS - Data Analytics - Manager,"[('Pricewaterhouse Coopers Private Limited', '')]",3.5,7920,4-9 ,"Kolkata, Hyderabad, Bengaluru",4,,Business process
+317,Manager ( Analytics and Data Testing ),"[('Deloitte', '')]",3.9,15912,5-9 ,"Hyderabad, Chennai, Bengaluru",5,,Analytics
+318,Data Science Internship Opportunities,"[('Microsoft', '')]",4.1,1535,0-1 ,Hyderabad,0,,Data Science
+319,"Associate Director, Data Science","[('S&P Global Market Intelligence', '')]",4.2,2294,5-24,Gurugram,1,,Data Science
+320,Associate Director - Data Science,"[('Verizon', '')]",4.1,1283,4-9 ,"Hyderabad, Chennai",4,,Data Science
+321,AVP-Data Science( Data Engineering and ML Modeling),"[('Aye Finance', '')]",4.2,1120,5-9 ,Gurugram,5,,Automation
+322,Data Analyst,"[('AU Small Finance Bank', '')]",4.4,9105,2-6 ,Jaipur(Jagatpura),2,,Data Analytics
+323,Data Exposure Analyst,"[('Corelogic', '')]",4.5,20,2-5 ,"Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",2,,insurance
+324,Data Analyst - Looker,"[('', 'Tetrahed Inc')]",,,4-7 ,"Noida, Hyderabad, Pune",4,,data visualization
+325,Senior Data Scientist,"[('S&P Global Market Intelligence', '')]",4.2,2294,5-8 ,"Hyderabad, Gurugram, Bengaluru",5,,Data Science
+326,"Sr Principal, Quantitative Analytics and Data Science","[('Gartner', '')]",4.2,472,4-9 ,Gurugram,4,,Product management
+327,"Sr Specialist, Quantitative Analytics and Data Science","[('Gartner', '')]",4.2,472,2-7 ,Gurugram,2,,Supply chain
+328,Senior Data Analyst,"[('', 'The Hiring Box')]",,,6-11,Hyderabad,6,,Analytical skills
+329,Junior Data Scientist,"[('Revonextsoft', '')]",1.7,3,0-6 ,Bengaluru,0,,algorithms
+330,Lead Data Scientist,"[('', 'Alphashots.AI')]",,,0-2 ,Remote,0,,Data Science
+331,"Data Eng, Mgmt & Governance Analyst","[('Accenture', '')]",4.0,49765,3-5 ,Bengaluru,3,,azure databricks
+332,Senior Expert Data Science,"[('Novartis', '')]",4.1,1447,4-7 ,Hyderabad,4,,Supply chain
+333,Data Analyst Intern,"[('Cloud Counselage', '')]",3.9,20,0-1 ,"Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",0,,Supervisor
+334,Data Science Analyst (Associate),"[('Infogain', '')]",3.6,983,2-6 ,"Hybrid - Gurugram, Bengaluru",2,,Data Science
+335,Data Scientist (Senior),"[('Quantium Analytics', '')]",3.9,32,4-8 ,Hyderabad,4,,task management
+336,Data Scientist - Statistical Modeling (Immediate joiners),"[('Evalueserve', '')]",3.4,1070,3-8 ,"Hybrid - Gurugram, Bengaluru, Mumbai (All Areas)",3,,Data Science
+337,Data Scientist,"[('IBM', '')]",4.1,20435,6-10,Bengaluru,6,,python
+338,Data Scientist,"[('Infosys', '')]",3.8,34625,9-11,Bengaluru,9,,python
+339,Data Scientist: Artificial Intelligence,"[('IBM', '')]",4.1,20435,5-7 ,Bengaluru,5,,python
+340,Technical Specialist - Data and Analytics,"[('GEP', '')]",3.8,899,3-6 ,Hyderabad,3,,analytical
+341,Associate Data Scientist,"[('', 'Wood Group Pratt & Whitney Industrial Turbine Services, LLC')]",,,3-8 ,Bengaluru,3,,gas turbine
+342,Data Scientist,"[('ANZ', '')]",4.1,928,7-9 ,Bengaluru,7,,Data management
+343,Data Science,"[('', 'Techvaraha Solutions')]",,,3-7 ,Bengaluru,3,,python
+344,"Principal, Quantitative Analytics and Data Science","[('Gartner', '')]",4.2,472,5-9 ,Gurugram,5,,Product management
+345,Data Analyst,"[('Skillsoft Software Services', '')]",3.6,43,3-7 ,Hyderabad,3,,SQL
+346,AM/DM - Data Analyst / Data Scientist / Digital Project Lead,"[('Maruti Suzuki', '')]",4.2,6845,4-9 ,Gurugram,4,,data science
+347,Data Analyst Exception Handling,"[('Barry Callebaut', '')]",3.7,57,4-6 ,Hyderabad,4,,excel
+348,Data Analyst,"[('', 'Cafyo Management Solution')]",,,0-5 ,"Bhilai, Bilaspur",0,,excel
+349,Data Analyst- Remote,"[('TechnoIdentity', '')]",4.2,38,5-10,Remote,5,,python
+350,Data Analyst IT and consulting,"[('', 'Confidential\nPosted by Aarons Visions')]",,,7-12,"Hyderabad, Pune, Bangalore/Bengaluru",7,,Data Extraction
+351,Senior Data Scientist,"[('Flipkart', '')]",4.0,9926,6-9 ,Bengaluru,6,,Data Science
+352,"SENIOR, DATA SCIENTIST","[('Walmart', '')]",3.9,2192,1-5 ,Bengaluru,1,,data science
+353,Sr. Data Science - AWS (Immediate Joiner Only),"[('Trianz', '')]",3.7,378,5-10,"Hybrid - Hyderabad, Bengaluru",5,,Pyspark
+354,Senior Data Analyst Nabis,"[('', 'Tacnique')]",,,3-6 ,"Kolkata, Mumbai, New Delhi, Hyderabad, Pune, Chennai, Bengaluru",3,,Computer science
+355,SE/SSE-Data Science(LLM),"[('Bold Technology Systems', '')]",3.4,185,3-8 ,Hybrid - Noida,3,,NLP
+356,Data Scientist,"[('Royal Cyber', '')]",3.5,97,8-13,Saudi Arabia,8,,Data Science
+357,Data Scientist - Phd only,"[('NDS Infoserv', '')]",2.3,8,0-2 ,Mumbai,0,,Natural Language Processing
+358,Data Science Architect,"[('', 'Info Test Ehire Campaign')]",,,9-14,"Hyderabad, Bengaluru",9,,Machine Learning
+359,Data Science Architect,"[('', 'Info Test Ehire Campaign')]",,,9-14,"Hyderabad, Bengaluru",9,,Deep learning
+360,Data Science - Regression/Classification,"[('Tiger Analytics', '')]",3.6,536,4-9 ,"Hyderabad, Chennai, Bengaluru",4,,Data Science
+361,Analytics - Data Analyst,"[('Deutsche Bank', '')]",4.0,3042,2-4 ,Bengaluru,2,,Analytics
+362,Risk Advisory Data Analytics Analyst,"[('KPMG Assurance and Consulting Services LLP', '')]",3.6,5025,0-2 ,Bengaluru,0,,it risk management
+363,Risk Advisory Data Analytics Analyst,"[('KPMG Assurance and Consulting Services LLP', '')]",3.6,5025,0-2 ,Gurugram,0,,it risk management
+364,Lead Data Analyst,"[('Innovaccer', '')]",3.0,303,1-4 ,Noida,1,,Health insurance
+365,Business Analyst: Supply Chain Analyst,"[('Genpact', '')]",3.9,27838,0-5 ,Hybrid - Hyderabad,0,,Supply Chain Planning
+366,Senior Expert Data Science (Immunology),"[('Novartis', '')]",4.1,1447,4-7 ,Hyderabad,4,,Data analysis
+367,Senior Expert Data Science (Statistician),"[('Novartis', '')]",4.1,1447,4-7 ,Hyderabad,4,,Data analysis
+368,Senior Expert Data Science,"[('Novartis', '')]",4.1,1447,4-7 ,Hyderabad,4,,Computer science
+369,Senior Director-Data Science & Artificial Intelligence,"[('', 'A global leader in AI and analytics')]",,,6-25,"Hybrid - Hyderabad, Chennai, Bengaluru",1,,Artificial Intelligence
+370,Data Scientist,"[('', 'Info Test Ehire Campaign')]",,,5-7 ,"Hyderabad, Bengaluru",5,,Machine Learning
+371,Data Scientist,"[('KR Mroads India', '')]",3.6,16,5-7 ,Hyderabad,5,,Computer science
+372,Hiring || Data Scientist || Hyderabad || Immediate joiner,"[('', 'Teknuova\nPosted by Teknuova Solutions')]",,,4-7 ,Hyderabad,4,,Data Science
+373,Data Scientist,"[('', 'LTI Mindtree')]",,,5-10,"Hybrid - Hyderabad, Pune, Bengaluru",5,,Data Science
+374,"Data Science, Staff","[('Synopsys', '')]",4.0,299,5-6 ,Hyderabad,5,,Computer science
+375,Data Science,"[('Infosys', '')]",3.8,34625,9-14,Bengaluru,9,,python
+376,Trainee Data Engineer AI-ML Engineer,"[('Twenty Twenty Interior', '')]",4.2,10,5-8 ,Bengaluru(Whitefield),0,,Data Science
+377,PMO - Data Analyst,"[('EY', '')]",3.6,9271,8-10,"Hyderabad, Gurugram, Bengaluru",8,,Workday Reporting
+378,Data Analyst(English Required),"[('', 'Peroptyx')]",,,0-5 ,Remote,0,,Data Analysis
+379,Data Analyst,"[('Sopra Steria', '')]",4.0,1624,3-5 ,Kanchipuram,3,,python
+380,Advanced Data Analytics - Regulatory Model Developer,"[('Capco', '')]",3.6,438,3-8 ,Bengaluru,3,,Data analysis
+381,Senior Data Scientist,"[('Microsoft', '')]",4.1,1535,7-12,Hyderabad,7,,Data Science
+382,"Data Scientist Junior, Senior Data Scientist","[('vertexcs', '')]",4.3,24,4-9 ,Hyderabad,4,,GIT
+383,Senior Data Analyst (L5),"[('Global Pharma Tek', '')]",3.1,23,7-9 ,Bengaluru,7,,data science
+384,Data Scientist: Artificial Intelligence,"[('IBM', '')]",4.1,20435,3-7 ,Gurugram,3,,python
+385,Data Scientist: Artificial Intelligence,"[('IBM', '')]",4.1,20435,5-7 ,Pune,5,,python
+386,Data Scientist,"[('', 'Leading Client')]",,,5-9 ,"Indore, Hyderabad, Delhi",5,,Data Science
+387,Data Scientist,"[('Deloitte', '')]",3.9,15912,5-7 ,Maharashtra,5,,Data Science
+388,Data Scientist: Artificial Intelligence,"[('IBM', '')]",4.1,20435,5-9 ,Gurugram,5,,python
+389,Data Scientist,"[('Flipkart', '')]",4.0,9926,3-6 ,Bengaluru,3,,Data Science
+390,Lead Data Scientist - Marketing Analytics,"[('Indusind Bank', '')]",3.6,9656,6-10,Gurugram,6,,Data Science
+391,Data Scientist (NLP Focus),"[('', 'Live Connections')]",,,7-12,"Hyderabad, Bengaluru, Delhi / NCR",7,,Python
+392,Data Scientist: Artificial Intelligence,"[('IBM', '')]",4.1,20435,5-8 ,Gurugram,5,,python
+393,Data Scientist,"[('Ford', '')]",4.4,2689,2-6 ,Chennai,2,,C++
+394,Data Scientist,"[('Ford', '')]",4.4,2689,2-6 ,Chennai,2,,Computer science
+395,Machine Learning / Data Scientist,"[('Wipro', '')]",3.8,44874,7-12,Bengaluru,7,,Machine Learning
+396,Lead Data Scientist,"[('S&P Global Market Intelligence', '')]",4.2,2294,4-8 ,"Hyderabad, Gurugram",4,,data science
+397,Data Science Architect,"[('Excellon Software', '')]",4.2,131,0-14,Pune(Bavdhan),1,,Power Bi
+398,Data Science Analytics,"[('Diverse Infotech', '')]",3.8,28,2-7 ,Gurgaon,2,,data science
+399,PhD Research Scholar - Data Science,"[('KG Information Systems (KGISL)', '')]",3.0,609,0-2 ,Bengaluru,0,,Research Scholar
+400,Data Science & Analytics,"[('', 'V- Konnect Associates')]",,,5-18,Mumbai,1,,advanced analytics
+401,AI / ML Engineer / Data scientist,"[('Agilisium', '')]",3.3,66,3-5 ,Chennai,3,,Artificial Intelligence
+402,Principal Data Science Engineer,"[('Sprinklr', '')]",3.1,288,6-11,Bengaluru,6,,Data management
+403,Data Platform Engineer,"[('Accenture', '')]",4.0,49765,7-12,Hyderabad,7,,data analytics
+404,Data Platform Engineer,"[('Accenture', '')]",4.0,49765,5-10,Hyderabad,5,,data analytics
